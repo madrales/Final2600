@@ -1,6 +1,3 @@
-# Final2600
-
----
 # The Open Systems Interconnection Model (OSI Model)
 
 This is a tutorial for learning the **Open Systems Interconnection Model**, otherwise known as the OSI Model. 
