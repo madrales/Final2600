@@ -14,3 +14,7 @@ The [Open Systems Interconnection Model](https://en.wikipedia.org/wiki/OSI_model
 5. [Session](https://en.wikipedia.org/wiki/Session_layer)
 6. [Process](https://en.wikipedia.org/wiki/Presentation_layer)
 7. [Application](https://en.wikipedia.org/wiki/Application_layer)
+
+## Physical Layer:
+
+The [Physical Layer](https://en.wikipedia.org/wiki/Physical_layer) is the first layer in the OSI model. The Physical layer deals with the electrical transmissions in a network. The [Protocol Data Unit](https://en.wikipedia.org/wiki/Protocol_data_unit) for the Physical Layer is the [bit](https://en.wikipedia.org/wiki/Bit). The bits are sent across a physical link that connects two [nodes](https://en.wikipedia.org/wiki/Node_(networking)) together to pass the electrical impulses
