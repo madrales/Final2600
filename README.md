@@ -1,7 +1,7 @@
 # How to Create a Github Account
 ---
 
-This is a short tutorial on how to make a GitHub account.[GitHub](https://en.wikipedia.org/wiki/GitHub) is a website that hosts software development version control using [Git](https://en.wikipedia.org/wiki/Git). Github is useful for programmers to host their code on the internet for others to collaborate on, share, or to grade for an assignment. This tutorial will help you to create a GitHub account for future use.
+This is a short tutorial on how to make a GitHub account. Assuming you have never even been on the website before, this tutorial will teach an absolute beginner how to make a GitHub account. [GitHub](https://en.wikipedia.org/wiki/GitHub) is a website that hosts software development version control using [Git](https://en.wikipedia.org/wiki/Git). Github is useful for programmers to host their code on the internet for others to collaborate on, share, or to grade for an assignment. This tutorial will help you to create a GitHub account for future use.
 
 ## Step 1: Navigating to the GitHub Website
 
@@ -28,9 +28,13 @@ Once this step is reached, the account is almost set up! Next, you must answer s
 ![Complete Setup](fourthscreen.png)
 
 
+You will now be able to start repositories for any project you desire!
+
+
 Thank you for following my tutorial! Thanks to Dale Musser for providing this course!
 
 ---
 
 **Mason Adrales**
+
 Information Technology
