@@ -1,17 +1,30 @@
-# The Open Systems Interconnection Model (OSI Model)
+# How to Create a Github Account
+---
 
-This is a tutorial for learning the **Open Systems Interconnection Model**, otherwise known as the OSI Model. 
+This is a short tutorial on how to make a GitHub account.[GitHub](https://en.wikipedia.org/wiki/GitHub) is a website that hosts software development version control using [Git](https://en.wikipedia.org/wiki/Git). Github is useful for programmers to host their code on the internet for others to collaborate on, share, or to grade for an assignment. This tutorial will help you to create a GitHub account for future use.
 
-The [Open Systems Interconnection Model](https://en.wikipedia.org/wiki/OSI_model) is, "a conceptual model that characterized and standardizes the communication functions of a telecommunication or computing system" (Wikipedia). The OSI model is useful to learn for any position that relates to computing or digital systems. Computer Science, Information Technology, Information Systems, or even Computer Engineerring are all majors who can deal with the OSI model. The 7 layers of the OSI model are as follows:
+## Step 1: Navigating to the GitHub Website
 
-1. [Physical](https://en.wikipedia.org/wiki/Physical_layer)
-2. [Data Link](https://en.wikipedia.org/wiki/Data_link_layer)
-3. [Network](https://en.wikipedia.org/wiki/Network_layer)
-4. [Transport](https://en.wikipedia.org/wiki/Transport_layer)
-5. [Session](https://en.wikipedia.org/wiki/Session_layer)
-6. [Process](https://en.wikipedia.org/wiki/Presentation_layer)
-7. [Application](https://en.wikipedia.org/wiki/Application_layer)
+In order to create a GitHub account, you must visit their website. [](www.github.com) is the URL that will take you to the website.
 
-## Physical Layer:
+## Step 2: Selecting a Username, Email, and Password
 
-The [Physical Layer](https://en.wikipedia.org/wiki/Physical_layer) is the first layer in the OSI model. The Physical layer deals with the electrical transmissions in a network. The [Protocol Data Unit](https://en.wikipedia.org/wiki/Protocol_data_unit) for the Physical Layer is the [bit](https://en.wikipedia.org/wiki/Bit). The bits are sent across a physical link that connects two [nodes](https://en.wikipedia.org/wiki/Node_(networking)) together to pass the electrical impulses
+Once on the website, you will see an immediate prompt for creating an account. At this point, you will need to choose a username, email, and password for your account. Once this has been chosen, you must click on the, **"Sign up for GitHub"** button in that same area of the webpage.
+
+## Step 3: Select a Plan
+
+GitHub requires that you select a plan for whatever uses you plan to use GitHub for. There is a Free option that allows the user to use the basic functions of GitHub including unlimited private and public repositories. There exists a Pro option that is $7 a month but allows for ulimited collaborators (Free only allows 3 per private repositories) among other immense benefits. You should select the plan that is best suited for your uses. There are also options for team environments.
+
+![Individual Plans]()
+
+## Step 4: Complete Setup and Verify Email
+
+Once this step is reached, the account is almost set up! Next, you must answer some questions about your motives for using GitHub and what experience you have with programming. You will also be prompted to write out your interests. Once complete, click **"Complete Setup"** and you will be prompted to verify your email. You will need to go to your email and find an email from GitHub and verify that you created the account. Once done, your account is all ready for use!
+
+
+Thank you for following my tutorial! Thanks to Dale Musser for providing this course!
+
+---
+
+**Mason Adrales**
+Information Technology
