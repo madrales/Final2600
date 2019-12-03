@@ -7,6 +7,8 @@ This is a short tutorial on how to make a GitHub account.[GitHub](https://en.wik
 
 In order to create a GitHub account, you must visit their website. [](www.github.com) is the URL that will take you to the website.
 
+![](first\ screen.jpg)
+
 ## Step 2: Selecting a Username, Email, and Password
 
 Once on the website, you will see an immediate prompt for creating an account. At this point, you will need to choose a username, email, and password for your account. Once this has been chosen, you must click on the, **"Sign up for GitHub"** button in that same area of the webpage.
